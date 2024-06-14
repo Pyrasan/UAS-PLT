@@ -3,7 +3,7 @@
 @section('konten')
 
 <div class="mb-5 d-flex justify-content-between">
-    <a class="btn btn-danger" href="{{ route('paper.list') }}">Back</a>
+    <a class="btn btn-danger" href="{{ route('paper') }}">Back</a>
     <a class="btn btn-success" href="{{ route('paper.add') }}">Add Paper</a>
 </div>
 
